@@ -1,12 +1,11 @@
+<h1 align="center">✨Rajveer Bishnoi</h1>
 <p align="center">
-  <h1 align="center">✨Rajveer Bishnoi</h1>
-
   <b>🚀 Full-Stack Developer | 🛠️ Open Source Contributor | 🎓 B.Tech CSE @ Scaler School of Technology</b>
 </p>
 
 ---
 
-<p align="center">
+<p>
   <h2>📌 About Me</h2>
   Hi there! I'm <b>Rajveer Bishnoi</b>, a driven full-stack developer and open-source enthusiast passionate about building impactful software and contributing to developer-friendly ecosystems. Currently in my <b>first year of B.Tech CSE</b> at <b>Scaler School of Technology</b>, I’ve already contributed to multiple open-source projects and participated in tech communities.
 
@@ -15,7 +14,7 @@
 
 ---
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2>💻 Tech Stack</h2>
 
 <p align="center">
 <b>Languages:</b> Java (Proficient), Python, JavaScript, SQL, HTML5, CSS3  
@@ -26,7 +25,7 @@
 
 ---
 
-<h2 align="center">🌐 Open Source Contributions</h2>
+<h2>🌐 Open Source Contributions</h2>
 
 <p align="center">
 
@@ -42,7 +41,7 @@
 
 ---
 
-<h2 align="center">🏫 Education</h2>
+<h2>🏫 Education</h2>
 
 <p align="center">
 <b>B.Tech – Computer Science & Engineering</b>  
@@ -52,7 +51,7 @@ Scaler School of Technology
 
 ---
 
-<h2 align="center">🧾 Certifications</h2>
+<h2>🧾 Certifications</h2>
 
 <p align="center">
 • JavaScript Algorithms & Data Structures – freeCodeCamp (2024)  
@@ -63,7 +62,7 @@ Scaler School of Technology
 
 ---
 
-<h2 align="center">🏅 Leadership & Extracurriculars</h2>
+<h2>🏅 Leadership & Extracurriculars</h2>
 
 <p align="center">
 • Sports Club President – Scaler School of Technology  
@@ -73,7 +72,7 @@ Scaler School of Technology
 
 ---
 
-<h2 align="center">💡 Why GSSoC 2025?</h2>
+<h2>💡 Why GSSoC 2025?</h2>
 
 <p align="center">
 I’m thrilled to join <b>GirlScript Summer of Code 2025</b> because it aligns perfectly with my passion for:
@@ -86,11 +85,11 @@ I’m thrilled to join <b>GirlScript Summer of Code 2025</b> because it aligns p
 • Making open-source ecosystems more inclusive and robust  
 </p>
 
-<p align="center"><b>⏳ Commitment:</b> 20–25 hours/week throughout the 3-month program</p>
+<p><b>⏳ Commitment:</b> 20–25 hours/week throughout the 3-month program</p>
 
 ---
 
-<h2 align="center">🎯 Contribution Focus</h2>
+<h2>🎯 Contribution Focus</h2>
 
 <p align="center">
 <b>Web Development:</b> React.js, JavaScript, Tailwind CSS, responsive UIs  
@@ -101,7 +100,7 @@ I’m thrilled to join <b>GirlScript Summer of Code 2025</b> because it aligns p
 
 ---
 
-<h2 align="center">💬 Personal Motivation</h2>
+<h2>💬 Personal Motivation</h2>
 
 <p align="center">
 <i>“I bring the same fire from the basketball court to the code editor — because teamwork, hustle, and precision matter everywhere!”</i>
