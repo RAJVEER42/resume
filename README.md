@@ -58,6 +58,13 @@ Scaler School of Technology
 • Responsive Web Design – freeCodeCamp (2024)  
 • Git for Beginners – Navin Reddy, Udemy (2025)  
   Credential ID: UC-744c76bf-1648-42dc-97de-ccf962e00b81  
+
+  ## 🎓 [Certified Postman API Fundamentals Student Expert](https://api.badgr.io/public/assertions/JlkDmwwSSgiteEBDlGHX1A)
+
+[![Postman Badge](https://api.badgr.io/public/assertions/JlkDmwwSSgiteEBDlGHX1A/image)](https://api.badgr.io/public/assertions/JlkDmwwSSgiteEBDlGHX1A)
+
+Awarded for demonstrating proficiency with APIs and Postman by completing foundational tasks and passing all tests in the Postman Student Expert program.
+
 </p>
 
 ---
