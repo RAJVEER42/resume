@@ -71,13 +71,13 @@ Awarded for demonstrating proficiency with APIs and Postman by completing founda
 
 <h2  align="center">🎖 AWS Badges</h2>
 <div>
-  <img src="https://yourdomain.com/aws-educate-machine-learning-foundations.png" alt="Machine Learning Foundations Badge" width="150">
+  <img src="aws-educate-machine-learning-foundations.png" alt="Machine Learning Foundations Badge" width="150">
   <p><strong>AWS Educate – Machine Learning Foundations</strong><br>
   Completed coursework covering core ML concepts and AWS ML services.</p>
 </div>
 
 <div>
-  <img src="https://yourdomain.com/AWSEBadge.png" alt="AWS Educate Badge" width="150">
+  <img src="AWSEBadge.png" alt="AWS Educate Badge" width="150">
   <p><strong>AWS Educate – Emerging Talent Member</strong><br>
   Part of AWS's global network for student developers and cloud learners.</p>
 </div>
