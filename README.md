@@ -66,6 +66,13 @@ Scaler School of Technology
 
 Awarded for demonstrating proficiency with APIs and Postman by completing foundational tasks and passing all tests in the Postman Student Expert program.
 </div>
+
+### 🧠 AWS Educate Machine Learning Foundations  
+<img src="https://user-images.githubusercontent.com/00000000/AWSEBadge.png" alt="AWS Educate Emerging Talent Badge" width="150"/>
+
+### 🌍 AWS Emerging Talent Community Member  
+![AWS Emerging Talent Badge](path/to/AWSEBadge.png)
+
 </p>
 
 ---
